@@ -41,7 +41,7 @@
 	"credentials": {
 		"gmailAccount": {
 			"email": "qalderic@gmail.com",
-			"clientId": "https://359304675438-4vsfmjp3mvkmvhfl26sfmhtfmovi1782.apps.googleusercontent.com",
+			"clientId": "359304675438-4vsfmjp3mvkmvhfl26sfmhtfmovi1782.apps.googleusercontent.com",
 			"clientSecret": "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",
 			"refreshToken": "1//04J9PYHIwYFxpCgYIARAAGAQSNwF-L9IrveKqHUbVyp5o9Fu6EQLCfJx7DaQ3n8TRIUQxKPnnmQAERiXyUhMip_MzWWPz5rsAHgk",
 			"apiKey": ""
